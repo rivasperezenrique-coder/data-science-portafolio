@@ -1,6 +1,6 @@
 title: "Portfolio de Análisis de Datos"
 description: "Proyectos de análisis de datos, machine learning y visualización"
-baseurl: ""  # Deja vacío si está en raíz
+baseurl: "" # Deja vacío si está en raíz
 url: "https://rivasperezenrique-coder.github.io"
 github_username: rivasperezenrique-coder
 
@@ -19,7 +19,7 @@ header_pages:
 # Información personal
 author:
   name: "Enrique Rivas"
-  email: "tu-email@ejemplo.com"
+  email: "rivas.perez.enrique@gmail.com"
   description: "Analista de datos especializado en Python y machine learning"
 
 # Enlaces sociales
@@ -32,22 +32,22 @@ projects:
     url: "https://github.com/rivasperezenrique-coder/proyecto-series-temporales"
     repo_url: "https://github.com/rivasperezenrique-coder/proyecto-series-temporales"
     description: "Modelado ARIMA para pronósticos de ventas"
-    
+
   - name: "Dashboard de Ventas"
     url: "https://github.com/rivasperezenrique-coder/dashboard-ventas"
     repo_url: "https://github.com/rivasperezenrique-coder/dashboard-ventas"
     description: "Dashboard interactivo con visualizaciones"
-    
+
   - name: "Segmentación de Clientes"
     url: "https://github.com/rivasperezenrique-coder/segmentacion-clientes"
     repo_url: "https://github.com/rivasperezenrique-coder/segmentacion-clientes"
     description: "Clustering con K-Means y DBSCAN"
-    
+
   - name: "Análisis de Descuentos"
     url: "https://github.com/rivasperezenrique-coder/ventas-analisis-descuentos"
     repo_url: "https://github.com/rivasperezenrique-coder/ventas-analisis-descuentos"
     description: "Optimización de estrategias de pricing"
-    
+
   - name: "Análisis de Márgenes"
     url: "https://github.com/rivasperezenrique-coder/ventas-analisis-margenes"
     repo_url: "https://github.com/rivasperezenrique-coder/ventas-analisis-margenes"
