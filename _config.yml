@@ -39,8 +39,8 @@ projects:
     description: "Dashboard interactivo con visualizaciones"
 
   - name: "Segmentación de Clientes"
-    url: "https://github.com/rivasperezenrique-coder/segmentcion-clientes"
-    repo_url: "https://github.com/rivasperezenrique-coder/segmentcion-clientes"
+    url: "https://github.com/rivasperezenrique-coder/segmentacion-clientes"
+    repo_url: "https://github.com/rivasperezenrique-coder/segmentacion-clientes"
     description: "Clustering con K-Means y DBSCAN"
 
   - name: "Análisis de Descuentos"
