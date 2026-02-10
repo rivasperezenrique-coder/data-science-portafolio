@@ -26,13 +26,13 @@ Analista de datos especializado en transformar datos complejos en insights accio
 📖 [Ver Documentación Detallada](projects/02-dashboard-ventas.md)  
 💻 [Ver Código Fuente Completo](https://github.com/rivasperezenrique-coder/dashboard-ventas)
 
-### 🔗 3. [Segmentación de Clientes](https://github.com/rivasperezenrique-coder/segmentacion-clientes)
+### 🔗 3. [Segmentación de Clientes](https://github.com/rivasperezenrique-coder/segmentcion-clientes)
 
 **Clustering con K-Means y DBSCAN**  
 📌 _Tecnologías: Scikit-learn, PCA, t-SNE, RFM Analysis_  
 🟡 **Estado: En Desarrollo**  
-📖 [Ver Documentación Detallada](projects/03-segmentacion-clientes.md)  
-💻 [Ver Código Fuente Completo](https://github.com/rivasperezenrique-coder/segmentacion-clientes)
+📖 [Ver Documentación Detallada](projects/03-segmentcion-clientes.md)  
+💻 [Ver Código Fuente Completo](https://github.com/rivasperezenrique-coder/segmentcion-clientes)
 
 ### 🔗 4. [Análisis de Impacto de Descuentos](https://github.com/rivasperezenrique-coder/ventas-analisis-descuentos)
 
@@ -91,7 +91,7 @@ dashboard-ventas/ # ⭐ REPOSITORIO REAL 2
 | --------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------- | ---------------- |
 | Series Temporales     | [📖 Docs](projects/01-series-temporales.md)     | [💻 Repo](https://github.com/rivasperezenrique-coder/proyecto-series-temporales) | ✅ Completado    |
 | Dashboard Ventas      | [📖 Docs](projects/02-dashboard-ventas.md)      | [💻 Repo](https://github.com/rivasperezenrique-coder/dashboard-ventas)           | ✅ Completado    |
-| Segmentación Clientes | [📖 Docs](projects/03-segmentacion-clientes.md) | [💻 Repo](https://github.com/rivasperezenrique-coder/segmentacion-clientes)      | 🟡 En Desarrollo |
+| Segmentación Clientes | [📖 Docs](projects/03-segmentcion-clientes.md) | [💻 Repo](https://github.com/rivasperezenrique-coder/segmentcion-clientes)      | 🟡 En Desarrollo |
 | Análisis Descuentos   | [📖 Docs](projects/04-analisis-descuentos.md)   | [💻 Repo](https://github.com/rivasperezenrique-coder/ventas-analisis-descuentos) | ✅ Completado    |
 | Análisis Márgenes     | [📖 Docs](projects/05-analisis-margenes.md)     | [💻 Repo](https://github.com/rivasperezenrique-coder/ventas-analisis-margenes)   | ✅ Completado    |
 

@@ -5,7 +5,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange)
 
 ## 🔗 Repositorio
-[https://github.com/rivasperezenrique-coder/segmentacion-clientes](https://github.com/rivasperezenrique-coder/segmentacion-clientes)
+[https://github.com/rivasperezenrique-coder/segmentcion-clientes](https://github.com/rivasperezenrique-coder/segmentcion-clientes)
 
 ## 🎯 Objetivo
 Identificar segmentos de clientes homogéneos usando machine learning no supervisado.
