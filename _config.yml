@@ -1,0 +1,46 @@
+title: "Portfolio de Análisis de Datos"
+description: "Proyectos de análisis de datos, machine learning y visualización"
+baseurl: ""  # Deja vacío si está en raíz
+url: "https://rivasperezenrique-coder.github.io"
+github_username: rivasperezenrique-coder
+
+# Configuración del tema (GitHub Pages usa Jekyll)
+theme: jekyll-theme-minimal
+
+# Configuración de plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Configuración de navegación
+header_pages:
+  - README.md
+
+# Información personal
+author:
+  name: "Enrique Rivas"
+  email: "rivas.perez.enrique@gmail.com"
+  description: "Analista de datos especializado en Python y machine learning"
+
+# Enlaces sociales (personaliza estos)
+social_links:
+  github: rivasperezenrique-coder
+  # linkedin: tu-usuario-linkedin
+  # twitter: tu-usuario-twitter
+
+# Configuración de proyectos (se usará en el layout)
+projects:
+  - name: "Análisis de Series Temporales"
+    url: "https://github.com/rivasperezenrique-coder/proyecto-series-temporales"
+    
+  - name: "Dashboard de Ventas"
+    url: "https://github.com/rivasperezenrique-coder/dashboard-ventas"
+    
+  - name: "Segmentación de Clientes"
+    url: "https://github.com/rivasperezenrique-coder/segmentacion-clientes"
+    
+  - name: "Análisis de Descuentos"
+    url: "https://github.com/rivasperezenrique-coder/ventas-analisis-descuentos"
+    
+  - name: "Análisis de Márgenes"
+    url: "https://github.com/rivasperezenrique-coder/ventas-analisis-margenes"
